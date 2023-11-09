@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/6e1fcdf8-b405-4df1-bcea-6ee847620c1a/resourceGroups/dev-rg-001/providers/Microsoft.Web/sites/comment-gather-skng"
+}
